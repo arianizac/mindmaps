@@ -1,4 +1,4 @@
-# mindmaps
+# MindMaps
 
 Organização de mapas mentais segmentados por assuntos
 
